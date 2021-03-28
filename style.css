@@ -59,3 +59,8 @@ h1
 {
     background-color: darkblue;
 }
+html
+{
+    scroll-behavior: smooth;
+    text-align: center;
+}
