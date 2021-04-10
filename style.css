@@ -65,6 +65,16 @@ h1
     text-align: center;
     font-size: 18px;
 }
+#pic
+{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+    height: 600px;
+}
+#pic:hover
+{
+    transform: scale(0.9);
+}
 html
 {
     scroll-behavior: smooth;
