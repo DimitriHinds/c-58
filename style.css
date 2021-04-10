@@ -59,8 +59,18 @@ h1
 {
     background-color: darkblue;
 }
+#swimmer
+{
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
 html
 {
     scroll-behavior: smooth;
+    text-align: center;
+}
+body
+{
     text-align: center;
 }
